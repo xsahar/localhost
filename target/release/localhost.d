@@ -1,0 +1,1 @@
+/mnt/c/Projects/localhost/target/release/localhost: /mnt/c/Projects/localhost/src/cgi.rs /mnt/c/Projects/localhost/src/config.rs /mnt/c/Projects/localhost/src/http.rs /mnt/c/Projects/localhost/src/main.rs /mnt/c/Projects/localhost/src/server.rs
